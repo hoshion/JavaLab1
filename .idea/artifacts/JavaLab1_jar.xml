@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="JavaLab1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaLab1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaLab1.jar">
+        <element id="module-output" name="JavaLab1" />
+      </element>
+    </root>
+  </artifact>
+</component>
